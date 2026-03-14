@@ -1,5 +1,5 @@
 # ============================================================
-# main.py — FastAPI Assignment 1 (All Tasks in One File)
+# main.py — FastAPI Assignment 2
 # ============================================================
 
 from fastapi import FastAPI, Query
